@@ -2,7 +2,7 @@
 
 A template for a Travel Blog with cards, font awesome, and bootstrap.
 
-> Live link can be found [here](https://codelikeagirl29.github.io/cards/)
+> Live link can be found [here](https://curious-tulumba-ec8552.netlify.app/)
 
 ## Tech
 

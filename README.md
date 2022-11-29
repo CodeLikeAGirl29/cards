@@ -4,6 +4,8 @@ A template for a Travel Blog with cards, font awesome, and bootstrap.
 
 > Live link can be found [here](https://tour-vibes.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67208d71-feec-4bbe-a970-b6f42ffd28b8/deploy-status)](https://app.netlify.com/sites/tour-vibes/deploys)
+
 ## Tech
 
 ![bootstrap](https://camo.githubusercontent.com/8d0e8bf4a315e73ce23e6d5e3193279d53d066717f7f806d7af7305d9334e7cb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d426f6f74737472617026636f6c6f723d373935324233266c6f676f3d426f6f747374726170266c6f676f436f6c6f723d464646464646266c6162656c3d)
